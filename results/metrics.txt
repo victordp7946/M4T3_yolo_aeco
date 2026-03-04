@@ -1,0 +1,12 @@
+Model: YOLOv8n
+Image size: 640
+Epochs: 30
+Dataset: m4t3_site_safety v1 (60 images)
+Split: train 48 / valid 12 / test 0
+Classes: person, hardhat, safety_vest, no_hardhat, no_safety_vest
+
+Validation metrics:
+Precision: 0.9884
+Recall: 0.1728
+mAP@0.50: 0.5371
+mAP@0.50:0.95: 0.3047
