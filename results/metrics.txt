@@ -10,3 +10,6 @@ Precision: 0.9884
 Recall: 0.1728
 mAP@0.50: 0.5371
 mAP@0.50:0.95: 0.3047
+
+Interpretation:
+High precision but low recall (small dataset + PPE objects small/occluded + class imbalance). Next steps: add more labeled PPE samples per class, balance positives/negatives, and try more data/epochs or a larger model (e.g., yolov8s).
