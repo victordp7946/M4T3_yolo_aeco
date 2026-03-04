@@ -12,3 +12,9 @@ M4T3 - YOLOv8 AECO prototype (reproducible in Colab)
 - mAP@0.50:0.95: **0.3047**
 
 **Interpretation:** High precision but low recall (small dataset + PPE objects are small/occluded + class imbalance). Improvements: add more labeled PPE examples per class, balance positives/negatives, and try yolov8s or more epochs.
+### Training curves
+![Training results](results/train/results.png)
+
+### Confusion matrix
+![Confusion matrix](results/train/confusion_matrix.png)
+![Normalized confusion matrix](results/train/confusion_matrix_normalized.png)
