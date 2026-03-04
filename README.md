@@ -18,3 +18,6 @@ M4T3 - YOLOv8 AECO prototype (reproducible in Colab)
 ### Confusion matrix
 ![Confusion matrix](results/train/confusion_matrix.png)
 ![Normalized confusion matrix](results/train/confusion_matrix_normalized.png)
+## Docs
+See: [docs/artifacts_links.md](docs/artifacts_links.md)  
+Other docs: [docs/links.md](docs/links.md)
