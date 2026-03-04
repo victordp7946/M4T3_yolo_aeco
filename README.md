@@ -21,3 +21,6 @@ M4T3 - YOLOv8 AECO prototype (reproducible in Colab)
 ## Docs
 See: [docs/artifacts_links.md](docs/artifacts_links.md)  
 Other docs: [docs/links.md](docs/links.md)
+## PDF package
+- Slides (PDF): [docs/M4T3_slides.pdf](docs/M4T3_slides.pdf)
+- Mini-report (PDF): [docs/M4T3_mini_report.pdf](docs/M4T3_mini_report.pdf)
